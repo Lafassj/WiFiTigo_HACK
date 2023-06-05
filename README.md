@@ -8,7 +8,7 @@ Esta es una herramienta que puede sacar el password de cualquier modem/router de
 es el handshake de toda la vida que por medio de aircrack lo captura y lo decencripta solo.
 
 # PMKID 
-Este es un modo de ataque mas actual porque no necesita tener usuarios conectados a la red para poder sacar el hash, el mismo scrip convierte este archivo pcpng en hc22000 para que despues lo pasemos a nuestra  maquina principal y podamos decencriptarlo con hashcat y una GPU Nvidia o Radeon
+Este es un modo de ataque mas actual porque no necesita tener usuarios conectados a la red para poder sacar el hash, el mismo script convierte este archivo PCAPNG en hc22000 para que despues lo pasemos a nuestra  maquina principal y podamos decencriptarlo con hashcat y una GPU Nvidia o Radeon
 
 
 # Diccionario
